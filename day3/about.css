@@ -1,0 +1,23 @@
+h1 {
+  color: greenyellow;
+}
+
+p {
+  font-size: x-large;
+}
+
+table {
+  color: royalblue;
+  font-size: 15px;
+  font-size: large;
+  border: 4px;
+  background-color: black;
+}
+
+td {
+  color: aqua;
+}
+
+a {
+  font-size: xx-large;
+}

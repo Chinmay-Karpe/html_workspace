@@ -1,0 +1,114 @@
+.headify {
+  background: gray;
+  padding: 10px;
+  font-size: xx-large;
+  color: aqua;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 270px;
+}
+
+#id1 {
+  color: royalblue;
+  width: 150px;
+  margin-top: 30px;
+  float: right;
+}
+
+#id2 {
+  color: royalblue;
+  width: 120px;
+  margin-top: 30px;
+  float: right;
+}
+
+#id3 {
+  color: royalblue;
+  width: 80px;
+  margin-top: 30px;
+  float: right;
+}
+
+#id4 {
+  color: royalblue;
+  width: 140px;
+  margin-top: 30px;
+  float: right;
+}
+
+#id5 {
+  color: royalblue;
+  width: 100px;
+  margin-top: 30px;
+  float: right;
+}
+
+#id6 {
+  color: royalblue;
+  width: 100px;
+  margin-top: 30px;
+  float: right;
+}
+
+img,
+#id11 {
+  height: 450px;
+  width: 450px;
+  background-color: aqua;
+  margin-top: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#id7 {
+  text-align: left;
+  font-size: 30px;
+  color: rgb(1, 255, 179);
+}
+
+#id8 {
+  text-align: left;
+  font-size: 50px;
+  color: rgb(145, 230, 36);
+}
+
+#id9 {
+  text-align: left;
+  font-size: 30px;
+  color: rgb(1, 255, 179);
+}
+
+.git {
+  color: Blue;
+  font-size: 25px;
+  width: 100px;
+  float: right;
+  margin-top: 1px;
+}
+
+.fb {
+  color: Blue;
+  font-size: 25px;
+  width: 120px;
+  float: right;
+  margin-top: 1px;
+}
+
+.linked {
+  color: Blue;
+  font-size: 25px;
+  width: 120px;
+  float: right;
+  margin-top: 1px;
+}
+
+.social {
+  color: red;
+  width: 250px;
+  float: right;
+  font-size: 30px;
+  margin-top: 1px;
+}

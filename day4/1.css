@@ -1,0 +1,37 @@
+.parent {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.child1 {
+  font-size: 60px;
+}
+
+.inputify {
+  width: 40vh;
+  height: 40px;
+  border-radius: 16px;
+  font-size: large;
+  padding-left: 8px;
+}
+
+.parent2 {
+  display: flex;
+  width: 60vw;
+  margin-top: 2px;
+}
+
+.btnchild {
+  margin-right: 2px;
+  flex: 1;
+}
+
+.btnify {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
